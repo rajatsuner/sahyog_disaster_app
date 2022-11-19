@@ -25,9 +25,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Folder structure
-|-- civilian_app    Code of Flutter app for civilians to register problems
-|-- rescue_app     Code of Flutter app for rescue members to get problems
-|-- sahyog_server   code of FCM push notification with Nodejs
+|-- civilian_app   //  Code of Flutter app for civilians to register problems <br>
+|-- rescue_app    // Code of Flutter app for rescue members to get problems  <br>
+|-- sahyog_server    // code of FCM push notification with Nodejs  <br>
 
 ## Future Scopes :
 1. Adding pop screen like truecaller with different sound which enables the Rescue team member to get the disaster information without any delay

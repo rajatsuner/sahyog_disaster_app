@@ -34,3 +34,4 @@
 2. Use Gyroscope sensor for Earthquake, Temperature rise detector for Fire hazards, and many more to report the problem without human interaction with the phone.
 3. Will try to implement a system to detect and avoid fake requests
 4. The rescue members after indentifying problem can send acknowledge to the user and he/she can track the work
+5. Display nearby hospitals on Map with number of bed availability by providing hospitals with interface to update details regularly.

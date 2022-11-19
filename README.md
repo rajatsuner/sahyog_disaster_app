@@ -35,3 +35,4 @@
 3. Will try to implement a system to detect and avoid fake requests
 4. The rescue members after indentifying problem can send acknowledge to the user and he/she can track the work
 5. Display nearby hospitals on Map with number of bed availability by providing hospitals with interface to update details regularly.
+6. A mass alert system which can notify all the required citizens about any warning with just single click.

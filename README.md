@@ -5,11 +5,14 @@
 <b>Tracks </b>: Open Innovation  <br>
 
 ## Problem Statement: 
-
+The combined effort to manage things during Disaster
 
 
 
 ## Proposed Solution : 
+We save lives,because every live matters. Our project is complete ecosystem which helps civilian during natural and man made disasters. Also beneficial for rescue team as they will get exact location.
+The problem of coordination , efficiency, lack of digital integrated system and automation in the current disaster management system  is solved with Sahyog. With the implementation of various sensors and Apis , the app will be automated. With the faster technology it will be world efficient and many lives will be saved. It will connect victims directly to concerned department related to the tragedy hence it will be digitally integrated.
+
 
 ## Currently Implemented Features : 
 1. The user can register problems with pin point location, main problem type, number of people affected and a brief explaination
@@ -36,3 +39,8 @@
 4. The rescue members after indentifying problem can send acknowledge to the user and he/she can track the work
 5. Display nearby hospitals on Map with number of bed availability by providing hospitals with interface to update details regularly.
 6. A mass alert system which can notify all the required citizens about any warning with just single click.
+
+## Challenges faced : 
+While implementing push notification services, it was not running in Android emulator but it runs fortunately on Real device after a very long time. 
+We found very less support of sensors in Flutter. Since we were making two different apps for the Civilian and Rescue team, we found it hard to manage it on the same system along with virtual devices.
+

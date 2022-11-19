@@ -1,0 +1,20 @@
+{
+  "name": "sahyog_main_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase": "^9.9.2",
+    "firebase-admin": "^11.3.0"
+  }
+}
